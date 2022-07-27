@@ -1,0 +1,84 @@
+NET="TANGCITY MALL"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="OPPO A9 2020cucu"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="TANGCITYMALL"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Tangsel Smart City"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="ESB Guest"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="AMARIS-SECT-01"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="PRINTPRESS"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="@wifi.id"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="zaki 123"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="CIM-IH"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="APKA"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="wifi.id@home"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Blackstain Merchstore"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="smpp-guest"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Hamisd"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="miftah's Galaxy A12"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="AndroidAPC231"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Infinix HOT 10 Play"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="CIDENG"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="MikroTik1"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="V2043"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Akku Sayang Kamu"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="vivo 1716"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="AndroidAP"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Wifi Gratis Adira"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Redmi 9A"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Novi Fajriatini"
+KEY=ROOT necessary!!!
+-----------------------------------------------
+NET="Ghina"
+KEY=ROOT necessary!!!
+-----------------------------------------------
